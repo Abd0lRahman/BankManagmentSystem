@@ -1,0 +1,10 @@
+debug/DataBase.o
+debug/DataBaseTranslator.o
+debug/Encrypter.o
+debug/Server.o
+debug/ServerHandler.o
+debug/main.o
+debug/moc_DataBase.o
+debug/moc_Encrypter.o
+debug/moc_Server.o
+debug/moc_ServerHandler.o
