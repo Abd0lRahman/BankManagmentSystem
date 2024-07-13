@@ -1,0 +1,15 @@
+release/DataBase.o
+release/DataBaseExecutor.o
+release/Encrypter.o
+release/Server.o
+release/ServerHandler.o
+release/email.o
+release/main.o
+release/smtp.o
+release/moc_DataBase.o
+release/moc_DataBaseExecutor.o
+release/moc_Encrypter.o
+release/moc_Server.o
+release/moc_ServerHandler.o
+release/moc_email.o
+release/moc_smtp.o

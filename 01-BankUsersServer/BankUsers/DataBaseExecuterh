@@ -1,0 +1,10 @@
+#ifndef DATABASEEXECUTERH
+#define DATABASEEXECUTERH
+
+class DataBaseExecuter
+{
+public:
+    DataBaseExecuter();
+};
+
+#endif // DATABASEEXECUTERH
