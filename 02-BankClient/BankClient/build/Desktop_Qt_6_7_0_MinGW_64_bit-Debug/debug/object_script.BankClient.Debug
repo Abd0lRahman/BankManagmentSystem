@@ -1,0 +1,12 @@
+debug/Encrypter.o
+debug/MainAdminWin.o
+debug/MainUserWindow.o
+debug/client.o
+debug/main.o
+debug/login.o
+debug/qrc_resources.o
+debug/moc_Encrypter.o
+debug/moc_MainAdminWin.o
+debug/moc_MainUserWindow.o
+debug/moc_client.o
+debug/moc_login.o
