@@ -1,0 +1,14 @@
+release/ClientGUIAbstract.o
+release/Encrypter.o
+release/LoginPage.o
+release/MainAdminWin.o
+release/MainUserWindow.o
+release/client.o
+release/main.o
+release/qrc_resources.o
+release/moc_ClientGUIAbstract.o
+release/moc_Encrypter.o
+release/moc_LoginPage.o
+release/moc_MainAdminWin.o
+release/moc_MainUserWindow.o
+release/moc_client.o

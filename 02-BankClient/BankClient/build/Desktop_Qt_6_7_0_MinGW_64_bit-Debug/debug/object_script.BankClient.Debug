@@ -1,0 +1,14 @@
+debug/ClientGUIAbstract.o
+debug/Encrypter.o
+debug/LoginPage.o
+debug/MainAdminWin.o
+debug/MainUserWindow.o
+debug/client.o
+debug/main.o
+debug/qrc_resources.o
+debug/moc_ClientGUIAbstract.o
+debug/moc_Encrypter.o
+debug/moc_LoginPage.o
+debug/moc_MainAdminWin.o
+debug/moc_MainUserWindow.o
+debug/moc_client.o
