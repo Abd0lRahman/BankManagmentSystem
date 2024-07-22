@@ -1,0 +1,84 @@
+
+LOGIN abd01rahman abd01rahman DONE
+LOGIN A A wrong username not DONE
+LOGIN abd01rahman abd01rahman DONE
+LOGIN AbdelhaqM 9090 DONE
+SIGNUP 12345678901234567890 AAABBB 897898 nhusxbh 871876126271 DONE
+SIGNUP vtby6un7im8o c2f5g6h7g65fgyh7h g5fgybnumi7nu6by5 mi7nu6by5vt45byn6u 765678456534 wrong MIP not DONE
+LOGIN crvetr dcfvegr wrong username not DONE
+Get Password kvcf 123456432 not DONE wrong username
+Get Password AbdelhaqM 6756543 not DONE wrong MIP
+Get Password AbdelhaqM 12345678901234567890 DONE
+LOGIN abd01rahman abd01rahman DONE
+LOGIN AbdelhaqM 9090 DONE
+GET AccountID AbdelhaqM DONE
+GET Balance AbdelhaqM DONE
+GET AccountID AbdelhaqM DONE
+GET Balance AbdelhaqM DONE
+GET AccountID AbdelhaqM DONE
+GET Balance AbdelhaqM DONE
+GET AccountID AbdelhaqM DONE
+GET Balance AbdelhaqM DONE
+LOGIN abd01rahman abd01rahman DONE
+Get AccID AbdelhaqM DONE
+Get Balance 909090909090 DONE
+Admin View Transaction History 909090909090 3 abd01rahman DONE
+View Data Base abd01rahman DONE
+UPDATE User data 909090909090 38d1e7d9abbc9a4f2c973349b6fd8ef0ef379e02a8fae03935e996d16eb8fed8 Signature AAABBBOOODDD DONE
+UPDATE User data 909090909090 38d1e7d9abbc9a4f2c973349b6fd8ef0ef379e02a8fae03935e996d16eb8fed8 AccountID 989898989898 not DONE wrong signature
+UPDATE User data 909090909090 d460c4230db13c7042d3db02b80e1e7d87cd8d5ae8c6be0aaf290c2060d6780b AccountID 989898989898 DONE
+Get AccID AbdelhaqM DONE
+UPDATE User data 989898989898 d460c4230db13c7042d3db02b80e1e7d87cd8d5ae8c6be0aaf290c2060d6780b Password 9898 DONE
+LOGIN AbdelhaqM 9898 DONE
+GET AccountID AbdelhaqM DONE
+GET Balance AbdelhaqM DONE
+GET AccountID AbdelhaqM DONE
+GET Balance AbdelhaqM DONE
+View Transaction History AbdelhaqM 2 DONE
+LOGIN AbdelhaqM 9898 DONE
+View Transaction History AbdelhaqM 5 DONE
+LOGIN abd01rahman abd01rahman DONE
+UPDATE User data 989898989898 d460c4230db13c7042d3db02b80e1e7d87cd8d5ae8c6be0aaf290c2060d6780b AccountID 909090909090 DONE
+UPDATE User data 989898989898 d460c4230db13c7042d3db02b80e1e7d87cd8d5ae8c6be0aaf290c2060d6780b AccountID 909090909090 not DONE wrong AccountID
+LOGIN abd01rahman abd01rahman DONE
+UPDATE User data 909090909090 d460c4230db13c7042d3db02b80e1e7d87cd8d5ae8c6be0aaf290c2060d6780b AccountID 989898989898 DONE
+UPDATE User data 989898989898 d460c4230db13c7042d3db02b80e1e7d87cd8d5ae8c6be0aaf290c2060d6780b AccountID 909090909090 DONE
+UPDATE User data 989898989898 d460c4230db13c7042d3db02b80e1e7d87cd8d5ae8c6be0aaf290c2060d6780b AccountID 909090909090 not DONE wrong AccountID
+LOGIN abd01rahman abd01rahman DONE
+UPDATE User data 909090909090 d460c4230db13c7042d3db02b80e1e7d87cd8d5ae8c6be0aaf290c2060d6780b AccountID 989898989898 DONE
+UPDATE User data 989898989898 d460c4230db13c7042d3db02b80e1e7d87cd8d5ae8c6be0aaf290c2060d6780b AccountID 909090909090 DONE
+LOGIN AbdelhaqM 9898 DONE
+View Transaction History AbdelhaqM 5 DONE
+GET Balance AbdelhaqM DONE
+GET AccountID AbdelhaqM DONE
+LOGIN abd01rahman abd01rahman DONE
+Check User data 545665654354 USER BFCBFC ft 5ffvyb 6bb 676 2024-07-21 17:09:22 3bdelrahman02@gmail.com 38d1e7d9abbc9a4f2c973349b6fd8ef0ef379e02a8fae03935e996d16eb8fed8 Checking DONE
+CREATE 545665654354 USER BFCBFC ft 5ffvyb 6bb 676 2024-07-21 17:09:55 3bdelrahman02@gmail.com 38d1e7d9abbc9a4f2c973349b6fd8ef0ef379e02a8fae03935e996d16eb8fed8 Checking DONE
+DELETE 545665654354 38d1e7d9abbc9a4f2c973349b6fd8ef0ef379e02a8fae03935e996d16eb8fed8 DONE
+LOGIN AbdelhaqM 9898 DONE
+GET Balance AbdelhaqM DONE
+TRANSACTION AbdelhaqM 100 d460c4230db13c7042d3db02b80e1e7d87cd8d5ae8c6be0aaf290c2060d6780b DONE
+TRANSACTION AbdelhaqM -200 d460c4230db13c7042d3db02b80e1e7d87cd8d5ae8c6be0aaf290c2060d6780b DONE
+GET Balance AbdelhaqM DONE
+GET Balance AbdelhaqM DONE
+TRANSFER AbdelhaqM 707070707070 1000 d460c4230db13c7042d3db02b80e1e7d87cd8d5ae8c6be0aaf290c2060d6780b DONE
+GET Balance AbdelhaqM DONE
+LOGIN abd01rahman abd01rahman DONE
+View Data Base abd01rahman DONE
+LOGIN abd01rahman abd01rahman DONE
+Get AccID AbdelhaqM DONE
+Admin View Transaction History 909090909090 3 abd01rahman DONE
+View Data Base abd01rahman DONE
+LOGIN abd01rahman abd01rahman DONE
+View Data Base abd01rahman DONE
+LOGIN abd01rahman abd01rahman DONE
+LOGIN AbdelhaqM 9898 DONE
+GET AccountID AbdelhaqM DONE
+GET Balance AbdelhaqM DONE
+View Transaction History AbdelhaqM 3 DONE
+View Data Base abd01rahman DONE
+GET AccountID AbdelhaqM DONE
+GET Balance AbdelhaqM DONE
+View Transaction History AbdelhaqM 2 DONE
+View Data Base abd01rahman DONE
+Get Balance 909090909090 DONE
